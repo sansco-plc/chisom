@@ -1,0 +1,21 @@
+.heading{
+    font-size: 30px;
+}
+span{
+    font-weight: bold;
+}
+.extend{
+    border: 20px solid 10px; 
+    color: white;
+    background-color: rgb(245, 71, 7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+}
+span{
+    font-weight: bold;
+}
+.store{
+    list-style-type: square;
+}
